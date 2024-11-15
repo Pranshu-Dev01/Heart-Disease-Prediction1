@@ -29,7 +29,8 @@ A prediction model leveraging machine learning algorithms, such as *K-Means Clus
 
  ![image](https://github.com/user-attachments/assets/cbedb0ee-0fc4-4286-8e1e-52849fe34c86)
 
-3) Execution Selenium tests:-
+2) Execution Selenium tests:-
+
 **OUTPUT:-**
 
 ![image](https://github.com/user-attachments/assets/333fc368-05e4-4b17-aafe-85114cfb7307)
