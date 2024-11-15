@@ -24,7 +24,9 @@ A prediction model leveraging machine learning algorithms, such as *K-Means Clus
 
 ### Running the Application
 1) Build and run the Docker container:
+
 **OUTPUT:-**  
+
  ![image](https://github.com/user-attachments/assets/cbedb0ee-0fc4-4286-8e1e-52849fe34c86)
 
 2) Execute Selenium tests:
@@ -33,5 +35,6 @@ A prediction model leveraging machine learning algorithms, such as *K-Means Clus
 3) Configure Jenkins to run tests and deploy the application automatically.
 
 **OUTPUT:-**
+
 ![image](https://github.com/user-attachments/assets/333fc368-05e4-4b17-aafe-85114cfb7307)
 
